@@ -12,7 +12,7 @@ This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go che
 $ npm install
 ```
 ```sh
-$ npm run dev or nodemon Server.js
+$ npm run dev or node Server.js
 ```
 ```sh
 $ add a .env file and include the following environment variables
